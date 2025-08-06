@@ -34,7 +34,7 @@ This project is a fully functional, interactive **web application** developed us
 
 ##  Demo
 
-You can deploy this app live using [Streamlit Cloud](https://streamlit.io/cloud). Once hosted, users can access it via a public URL.
+You can deploy this app live using [Streamlit Cloud] https://prldkhtzrbqrntapx8ffia.streamlit.app/. Once hosted, users can access it via a public URL.
 
 ---
 
@@ -84,7 +84,11 @@ pip install -r requirements.txt
 
 ### 3. Run the Streamlit App
 streamlit run app.py
-### PROJECT STRUCTURE 
+
+🗂 Project Structure
+bash
+Copy
+Edit
 online-course-recommender/
 │
 ├── app.py                           # Main application logic
@@ -92,3 +96,37 @@ online-course-recommender/
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project documentation
 └── .gitignore                      # Ignored files & folders
+
+🖼 Screenshots
+
+
+💼 Use Cases
+Educational platforms that want to suggest relevant courses to learners
+
+Learners overwhelmed with course overload on platforms like Coursera, Udemy, etc.
+
+Colleges/universities building personalized recommendation engines for their LMS
+
+
+🤝 Contributing
+If you’d like to improve this app, feel free to fork the repo and submit a pull request.
+
+Fork the repository
+
+Create your branch: git checkout -b feature-name
+
+Commit your changes: git commit -m "Add some feature"
+
+Push to the branch: git push origin feature-name
+
+Open a pull request
+
+
+📬 Contact
+Name: Pankaj Kumar Singh
+
+LinkedIn: www.linkedin.com/in/pankaj-kumar-singh-396162325
+
+Email: pankajjsinghh376@gmail.com
+
+
